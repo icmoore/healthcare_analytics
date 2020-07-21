@@ -1,5 +1,6 @@
 # Healthcare analytics using Bayesian inference
 
-### Usecases
-* Physician initial assessments
-* Daily patient throughput forecasts
+## Usecases
+### Daily patient throughput forecasts
+* Simluated monthly hospital visits
+* Applies Gaussian Processes
