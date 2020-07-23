@@ -8,3 +8,7 @@
 ### Initial physician assessments
 * Simluated initial physician assessment
 * Applies Survival Analysis
+
+### ER Doc performance curve
+* Simluated ER Doc performance 
+* Applies Beta-Bernouli model
